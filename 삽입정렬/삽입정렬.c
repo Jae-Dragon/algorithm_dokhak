@@ -3,7 +3,7 @@
 
 int main()
 {
-    int a[LENGTH] = {90, 34, 78, 12, 56};
+    int a[LENGTH] = {9, 7, 5, 3, 4};
     int ins, cmp, temp;
 
 
